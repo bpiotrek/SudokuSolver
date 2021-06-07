@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/bpiotrek/sudokusolver/lb"
+	"main/lb"
 	"strconv"
 	"strings"
 

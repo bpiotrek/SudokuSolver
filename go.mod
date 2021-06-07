@@ -1,5 +1,5 @@
-module github.com/bpiotrek/sudokusolver
+module main
 
-go 1.16
+go 1.14
 
 require github.com/bits-and-blooms/bitset v1.2.0
